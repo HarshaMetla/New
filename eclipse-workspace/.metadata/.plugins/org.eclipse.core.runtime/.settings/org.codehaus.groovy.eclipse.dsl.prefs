@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-org.codehaus.groovy.eclipse.dsl.projects.ignore=docker-jenkin-integration,docker-groovy-integration
+org.codehaus.groovy.eclipse.dsl.projects.ignore=docker-groovy-integration
